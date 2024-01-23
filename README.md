@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KunalParkhade
-- 👀 I’m interested in ... developing algorithms for C, and C++, and developing webpages
-- 🌱 I’m currently learning ... backend
+- 👀 I’m interested in ... developing algorithms for C, and C++, and developing webpages.
 - 💞️ I’m looking to collaborate on ... making and designing web pages.
 - 📫 How to reach me ... through my email id- kunalparkhade@gmail.com
 
