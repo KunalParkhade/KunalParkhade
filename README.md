@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @KunalParkhade pursuing a B.Tech in CSE at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India
-- 👀 I’m interested in ... developing algorithms for C, and C++, and developing webpages.
-- 🧑‍💻 I'm also Competitive Programmer & Learner
-- 💞️ I’m looking to collaborate on ... making and designing web pages.
-- 📫 How to reach me ... through my email id- kunalparkhade@gmail.com
+
+---
+
+### Hi there, I'm Kunal Parkhade 👋
+
+I'm currently pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India. I'm passionate about developing algorithms in C and C++, and I also enjoy creating webpages.
+
+- 🔭 I’m currently working on improving my problem-solving skills through Competitive Programming.
+- 🌱 I’m currently learning about advanced data structures and algorithms.
+- 💬 Ask me about anything related to C/C++, web development, or competitive programming!
+- 📫 You can reach me via email at kunalparkhade@gmail.com
+
+### Socials:
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/kunal-parkhade-6157b8240/)
+- Follow me on [GitHub](github.com/KunalParkhade)
+- Check out my programming solutions on [LeetCode](https://leetcode.com/kunalparkhade/)
+
+Looking forward to connecting with you!
+
+--- 
 
 <!---
 KunalParkhade/KunalParkhade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
