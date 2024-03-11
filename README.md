@@ -2,7 +2,7 @@
 ---
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hello! I'm Kunal Parkhade<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e470563pwaisb0z0tkyzufgb3760sr6awkqtua67f42&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="230">
+<img align='right' src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e470563pwaisb0z0tkyzufgb3760sr6awkqtua67f42&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 
 
 I'm pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India. I'm passionate about developing algorithms in C and C++, and I also enjoy creating web pages.
