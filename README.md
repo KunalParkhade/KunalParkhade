@@ -1,10 +1,10 @@
 
 ---
 
-# <h1 align="center">Hello! I'm Kunal Parkhade</h1>
-<div class="tenor-gif-embed" data-postid="13839287635814292878" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-gif-13839287635814292878">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# <h1 align="center">🤗 Hello! I'm Kunal Parkhade 🧑‍💻</h1>
+![coding](https://github.com/KunalParkhade/KunalParkhade/assets/113717557/b8bcff23-f705-4917-b677-4bb9c078cc3f)
 
-I'm currently pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India. I'm passionate about developing algorithms in C and C++, and I also enjoy creating webpages.
+I'm pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India. I'm passionate about developing algorithms in C and C++, and I also enjoy creating web pages.
 
 - 🔭 I’m currently working on improving my problem-solving skills through Competitive Programming.
 - 🌱 I’m currently learning about advanced data structures and algorithms.
