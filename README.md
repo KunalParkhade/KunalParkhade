@@ -1,8 +1,8 @@
 
 ---
 
-# <b><h1 align="center">🤗 Hello! I'm Kunal Parkhade 🧑‍💻</h1></b>
-![coding](https://github.com/KunalParkhade/KunalParkhade/assets/113717557/b8bcff23-f705-4917-b677-4bb9c078cc3f)
+# <h1 align="center" color="red">🤗 **Hello! I'm Kunal Parkhade** 🧑‍💻</h1>
+<h2 align="center">![coding](https://github.com/KunalParkhade/KunalParkhade/assets/113717557/b8bcff23-f705-4917-b677-4bb9c078cc3f)</h2>
 
 I'm pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India. I'm passionate about developing algorithms in C and C++, and I also enjoy creating web pages.
 
