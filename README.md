@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e470563pwaisb0z0tkyzufgb3760sr6awkqtua67f42&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 
 
-I'm pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India. I'm passionate about developing algorithms in C and C++, and I also enjoy creating web pages.
+I'm pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India. I'm passionate about cracking and optimizing C and C++ algorithms and enjoy creating web pages.
 
 - 🔭 I’m currently working on improving my problem-solving skills through Competitive Programming.
 - 🌱 I’m currently learning about advanced data structures and algorithms.
