@@ -7,7 +7,7 @@
 
 I'm pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan College of Engineering, Nagpur, Maharashtra, India. I'm passionate about cracking and optimizing C and C++ algorithms and enjoy creating web pages.
 
-- 🔭 I’m currently working on improving my problem-solving skills through Competitive Programming.
+- 🔭 I’m working on improving my problem-solving skills through Competitive Programming.
 - 🌱 I’m currently learning about advanced data structures and algorithms.
 - 💬 Ask me about anything related to C/C++, web development, or competitive programming!
 - 📫 You can reach me via email at kunalparkhade@gmail.com
@@ -18,7 +18,7 @@ I'm pursuing a B.Tech in Computer Science and Engineering at Yeshwantrao Chavan 
 - Follow me on [GitHub](github.com/KunalParkhade)
 - Check out my programming solutions on [LeetCode](https://leetcode.com/kunalparkhade/)
 
-Looking forward to connecting with you!
+I'm looking forward to connecting with you!!!
 
 --- 
 
