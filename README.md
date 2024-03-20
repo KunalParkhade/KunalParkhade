@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Kunal Parkhade<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-🔭 I’m currently working on improving my problem-solving skills through Competitive Programming.<br>👯 I’m looking to collaborate on web development projects.<br>🌱 I’m currently learning React and Data Structure & Algorithms.<br>💬 Ask me about C/C++, web development, or competitive programming!<br>📫 Reach me through kunalparkhade@gmail.com.<br>✍️I write articles on [https://medium.com/@kunalparkhade].<br>⚡ Fun fact: I have a collection of Black Pens.
+🔭 I’m currently working on improving my problem-solving skills through Competitive Programming.<br>👯 I’m looking to collaborate on web development projects.<br>🌱 I’m currently learning React and Data Structure & Algorithms.<br>💬 Ask me about C/C++, web development, or competitive programming!<br>📫 Reach me through kunalparkhade@gmail.com.<br>✍️I write blogs on Medium.<br>⚡ Fun fact: I have a collection of Black Pens.
 <img align='right' src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e470563pwaisb0z0tkyzufgb3760sr6awkqtua67f42&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 
 
