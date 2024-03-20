@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Kunal Parkhade<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 🔭 I’m currently working on improving my problem-solving skills through Competitive Programming.<br>👯 I’m looking to collaborate on web development projects.<br>🌱 I’m currently learning React and Data Structure & Algorithms.<br>💬 Ask me about anything related to C/C++, web development, or competitive programming!<br>✍️I write blogs on Medium.<br>⚡ Fun fact: I have a collection of Black Pens.<br>
-<iframe src="https://giphy.com/embed/unxCGmTuBvwo2djRLA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-unxCGmTuBvwo2djRLA">via GIPHY</a></p>
+<h2 align="right"><iframe src="https://giphy.com/embed/unxCGmTuBvwo2djRLA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-unxCGmTuBvwo2djRLA">via GIPHY</a></p></h2>
 
 <br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalparkhade" alt="kunalparkhade" /></a> </p>
 
