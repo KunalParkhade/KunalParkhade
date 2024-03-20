@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Kunal Parkhade<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 🔭 I’m currently working on improving my problem-solving skills through Competitive Programming.<br>👯 I’m looking to collaborate on web development projects.<br>🌱 I’m currently learning React and Data Structure & Algorithms.<br>💬 Ask me about anything related to C/C++, web development, or competitive programming!<br>✍️I write blogs on Medium.<br>⚡ Fun fact: I have a collection of Black Pens.<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalparkhade" alt="kunalparkhade" /></a> </p>
+<br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalparkhade" alt="kunalparkhade" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kunalparkhade" target="blank"><img src="https://img.shields.io/twitter/follow/kunalparkhade?logo=twitter&style=for-the-badge" alt="kunalparkhade" /></a> </p>
 
@@ -35,4 +35,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kunalparkhade"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kunalparkhade" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/kunalparkhade"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kunalparkhade" /></a></p><br><br>
