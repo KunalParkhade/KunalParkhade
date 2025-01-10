@@ -15,6 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KunalParkhade&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalParkhade&theme=vision-friendly-dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=KunalParkhade&theme=dark&border_radius=5)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalParkhade&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## GitHub Trends
