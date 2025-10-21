@@ -1,10 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Kunal Parkhade<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h3 align="center">🚀 Cloud & DevOps Engineer | 🧠 Machine Learning Practitioner | 📍 India</h3>
 
-<br><p align="center">
-  <img src="https://github.com/KunalParkhade/KunalParkhade/assets/113717557/12a58343-b157-48ba-92f6-9236c0138626" alt="engineering">
-</p>
-
 
 <p align="center">
   <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-kunalparkhade%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
