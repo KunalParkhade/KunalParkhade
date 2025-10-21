@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-kunalparkhade%40gmail.com-red?style=plastic&logo=gmail"></a>
+  <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-kunalparkhade%40gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/kunal-parkhade-6157b8240/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Parkhade-blue?style=plastic&logo=linkedin"></a>
   <a href="https://medium.com/@kunalparkhade"><img src="https://img.shields.io/badge/Medium-Blog-black?style=plastic&logo=medium"></a>
   <a href="https://kunalparkhade.github.io/Kunal-Parkhade-Resume/"><img src="https://img.shields.io/badge/Resume-View-green?style=plastic&logo=adobeacrobatreader"></a>
