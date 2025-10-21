@@ -63,8 +63,9 @@ I enjoy bridging **AI + Cloud + Automation**, experimenting with modern DevOps t
 
 ---
 
-<p align="center">
+<h2><p align="center">
   <b>💡 “Automate → Monitor → Optimize → Scale”</b><br>
   🌱 Always learning. Always building.
 </p>
+</h2>
 
