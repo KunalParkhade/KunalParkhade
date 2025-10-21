@@ -56,7 +56,7 @@ I enjoy bridging **AI + Cloud + Automation**, experimenting with modern DevOps t
 ---
 ### 💬 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/kunal-parkhade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/kunal-parkhade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat"></a>
   <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail&style=for-the-badge"></a>
   <a href="https://medium.com/@kunalparkhade"><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?logo=medium&style=for-the-badge"></a>
 </p>
