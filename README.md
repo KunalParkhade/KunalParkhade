@@ -14,7 +14,7 @@
 ### 🌟 About Me
 I'm a **Cloud & DevOps Engineer** and **Machine Learning Practitioner** passionate about automating, optimizing, and scaling real-world systems.  
 Currently, I'm working as an **Intern (since March 2025)** where I:
-- Implemented **Terraform IaC**, **GitHub Actions CI/CD**, and **OIDC authentication** for secure automation  
+- Implemented **Terraform IaC**, **GitHub Actions CI/CD**, **Lambda and EventBridge** for Cost Tracking to Slack and **OIDC authentication** for secure automation  
 - Built and deployed scalable applications using **AWS services** (IAM, ECS, Lambda, S3, CloudWatch, RDS, etc.)  
 - Containerized applications with **Docker** and integrated **OpenTelemetry & Jaeger** for full observability  
 - Collaborated across teams to ensure smooth DevOps workflows and continuous improvement  
@@ -30,7 +30,7 @@ I enjoy bridging **AI + Cloud + Automation**, experimenting with modern DevOps t
 | ☁️ **Cloud & DevOps** | **AWS:** IAM, EC2, VPC, ECS, ECR, Lambda, S3, RDS, CloudWatch, CloudTrail, CloudFormation, Route 53, SNS, Secrets Manager, Systems Manager (SSM), DynamoDB, Elastic Beanstalk, STS, OIDC integration. <br> **IaC & Automation:** Terraform, AWS CLI, Boto3 SDK. <br> **CI/CD & Containers:** GitHub Actions, Docker. <br> **Monitoring & Observability:** OpenTelemetry, Jaeger, Prometheus, Grafana. |
 | 🤖 **Machine Learning** | Python, scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Jupyter, BentoML |
 | 🧩 **Programming & Frameworks** | Python, C++, SQL, FastAPI, Streamlit |
-| 🧰 **Other Tools** | Git, Linux (Ubuntu/Red Hat), VS Code, Postman, Slack |
+| 🧰 **Other Tools** | Git, Linux (Ubuntu), VS Code, Postman, Slack |
 
 ---
 ### 🎯 Goals for 2025
