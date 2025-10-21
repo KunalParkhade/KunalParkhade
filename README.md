@@ -41,11 +41,18 @@ I enjoy bridging **AI + Cloud + Automation**, experimenting with modern DevOps t
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KunalParkhade&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KunalParkhade&theme=vision-friendly-dark&hide_border=false)<br/>
+### 🧩 Stats & Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalParkhade&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KunalParkhade&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalParkhade&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KunalParkhade&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 ## GitHub Trends
 ![](https://api.githubtrends.io/user/svg/KunalParkhade/repos?time_range=one_year&group=other&theme=dark)
