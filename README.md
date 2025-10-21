@@ -54,17 +54,9 @@ I enjoy bridging **AI + Cloud + Automation**, experimenting with modern DevOps t
 
 ---
 
-## GitHub Trends
-![](https://api.githubtrends.io/user/svg/KunalParkhade/repos?time_range=one_year&group=other&theme=dark)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KunalParkhade&theme=vision-friendly-dark&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KunalParkhade&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KunalParkhade&icon=3&color=2)](https://visitcount.itsvg.in)
