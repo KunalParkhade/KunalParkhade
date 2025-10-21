@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! I'm Kunal Parkhade<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-🌟 Welcome to my GitHub! 🌟<br>🔭 I’m currently sharpening my problem-solving skills through Competitive Programming and exploring innovative approaches to tackle challenging problems.<br>👯 Always eager to collaborate on exciting Machine Learning projects that can make a difference.<br>🌱 Currently diving deeper into Machine Learning and mastering Data Structures & Algorithms to enhance my technical expertise.<br>💬 Feel free to ask me about C/C++, Machine Learning, or Competitive Programming—I’d love to share my knowledge!<br>✍️ I express my thoughts and share insights through blogs on Medium. Check them out!<br>🖋️ Fun Fact: I’m a collector of black pens—they’re my little obsession.
+<h3 align="center">🚀 Cloud & DevOps Engineer | 🧠 Machine Learning Practitioner | 📍 India</h3>
 
 <br><p align="center">
   <img src="https://github.com/KunalParkhade/KunalParkhade/assets/113717557/12a58343-b157-48ba-92f6-9236c0138626" alt="engineering">
