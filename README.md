@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-kunalparkhade%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/kunal-parkhade-6157b8240/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Parkhade-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-kunalparkhade%40gmail.com-red?style=plastic&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/kunal-parkhade-6157b8240/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Parkhade-blue?style=plastic&logo=linkedin"></a>
   <a href="https://medium.com/@kunalparkhade"><img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium"></a>
   <a href="https://kunalparkhade.github.io/Kunal-Parkhade-Resume/"><img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=adobeacrobatreader"></a>
 </p>
