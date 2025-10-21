@@ -52,12 +52,6 @@ I enjoy bridging **AI + Cloud + Automation**, experimenting with modern DevOps t
   <img src="https://streak-stats.demolab.com?user=KunalParkhade&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
----
-
-### ✍️ Random Dev Quote
-<p align="center"
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-</p>
 
 ---
 ### 💬 Let’s Connect
