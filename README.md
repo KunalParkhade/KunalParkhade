@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-kunalparkhade%40gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/kunal-parkhade-6157b8240/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Parkhade-blue?style=plastic&logo=linkedin"></a>
-  <a href="https://medium.com/@kunalparkhade"><img src="https://img.shields.io/badge/Medium-Blog-black?style=plastic&logo=medium"></a>
-  <a href="https://kunalparkhade.github.io/Kunal-Parkhade-Resume/"><img src="https://img.shields.io/badge/Resume-View-green?style=plastic&logo=adobeacrobatreader"></a>
+  <a href="https://www.linkedin.com/in/kunal-parkhade-6157b8240/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Parkhade-blue?style=flat&logo=linkedin"></a>
+  <a href="https://medium.com/@kunalparkhade"><img src="https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium"></a>
+  <a href="https://kunalparkhade.github.io/Kunal-Parkhade-Resume/"><img src="https://img.shields.io/badge/Resume-View-green?style=flat&logo=adobeacrobatreader"></a>
 </p>
 
 ---
@@ -57,8 +57,8 @@ I enjoy bridging **AI + Cloud + Automation**, experimenting with modern DevOps t
 ### 💬 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-parkhade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat"></a>
-  <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail&style=for-the-badge"></a>
-  <a href="https://medium.com/@kunalparkhade"><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?logo=medium&style=for-the-badge"></a>
+  <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail&style=flat"></a>
+  <a href="https://medium.com/@kunalparkhade"><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?logo=medium&style=flat"></a>
 </p>
 
 ---
