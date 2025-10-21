@@ -55,9 +55,22 @@ I enjoy bridging **AI + Cloud + Automation**, experimenting with modern DevOps t
 ---
 
 ### ✍️ Random Dev Quote
+<p align="center"
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KunalParkhade&icon=3&color=2)](https://visitcount.itsvg.in)
+### 💬 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunal-parkhade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="mailto:kunalparkhade@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?logo=gmail&style=for-the-badge"></a>
+  <a href="https://medium.com/@kunalparkhade"><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-black?logo=medium&style=for-the-badge"></a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 “Automate → Monitor → Optimize → Scale”</b><br>
+  🌱 Always learning. Always building.
+</p>
 
